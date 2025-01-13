@@ -1,1 +1,1 @@
-This is hugo server test
+This is hugo server test.
